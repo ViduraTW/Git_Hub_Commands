@@ -20,6 +20,8 @@
 | `git rm -r [file-name.txt]`        | Remove a file (or folder) |
 | `git checkout [branch name]`        | Switch to a branch|
 | `git branch -a ` | List all branches (local and remote)|
+| `git branch [branch name]` | Creates a new branch|
+
 
 
 
